@@ -1,4 +1,4 @@
-# rICK AND MORTY API 
+# RICK AND MORTY API 
 
 react project testing rick and morty api
 
